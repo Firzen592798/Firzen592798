@@ -2,6 +2,13 @@
 
 Olá! Eu sou desenvolvedor de software que gosta bastante de trabalhar com backend e mobile e buscando novos desafios para aplicar meus conhecimentos da melhor forma possível. Tenho como principais hobbies jogar e assistir animes.
 
+<div>
+<a href="https://github.com/Firzen592798">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firzen592798&layout=compact&langs_count=5"></img>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Firzen592798&show_icons=true&include_all_commits=true&hide=stars"></img>
+</a>
+</div>
+  
 ## Habilidades
 
 - Linguagens de programação: Java, Javascript, C++, C#, PHP
